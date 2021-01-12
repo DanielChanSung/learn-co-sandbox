@@ -1,4 +1,5 @@
 num_of_attendees = 547
+<<<<<<< HEAD
 puts "There are #{num_of_attendees} people coming to Beyonce's birthday party" + answer + "."
 
 def stylish_chef
@@ -6,3 +7,6 @@ def stylish_chef
   return "Martha Stewart"
   "Guy Fieri"
 end
+=======
+puts "There are #{num_of_attendees} people coming to Beyonce's birthday party" + answer + "."
+>>>>>>> 60e5a755bb50924070cff05ce3991213f7a7488e
